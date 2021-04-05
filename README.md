@@ -33,6 +33,19 @@ python manage.py runserver
 
 ```
 
+# ScreenShots
+
+<p align="center">
+<h3>Add Tasks</h3>
+<img src="Images/Add.PNG" width="800">
+<h3>Add Future Tasks</h3>
+<img src="Images/AddFuture.PNG" width="800">
+<h3>View Future Tasks</h3>
+<img src="Images/FutureTasks.PNG" width="800">
+<h3>Cross the Completed Tasks</h3>
+<img src="Images/Cross.PNG" width="800">
+</p>
+
 # Authors
 
 
